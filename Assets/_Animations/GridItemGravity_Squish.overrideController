@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GridItemGravity_Squish
+  m_Controller: {fileID: 9100000, guid: 194ce14ac9e8d452dbf9318e2cc30c5f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ea585dc790bce4645a3d94d02271a38a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ceb85a828861c41998a7c1d1ce988945, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 8d7f81140d2ab4be4a38280a9cbeae4c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8fdd2ff8f8923449e92c52178d6952ef, type: 2}

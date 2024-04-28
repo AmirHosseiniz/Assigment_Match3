@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2740769240631158471
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 590708138579165495, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: UVModule.sprites.Array.data[0].sprite
+      value: 
+      objectReference: {fileID: -1678421138, guid: 435cbd241daf34a5f86560b1e4613cba, type: 3}
+    - target: {fileID: 2434416582615441132, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: UVModule.sprites.Array.data[0].sprite
+      value: 
+      objectReference: {fileID: 1267811912, guid: 435cbd241daf34a5f86560b1e4613cba, type: 3}
+    - target: {fileID: 4856023945967910387, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: UVModule.sprites.Array.data[0].sprite
+      value: 
+      objectReference: {fileID: -2686314, guid: 435cbd241daf34a5f86560b1e4613cba, type: 3}
+    - target: {fileID: 7658420908744385330, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: UVModule.sprites.Array.data[0].sprite
+      value: 
+      objectReference: {fileID: -2019677755, guid: 435cbd241daf34a5f86560b1e4613cba, type: 3}
+    - target: {fileID: 7687639051331485024, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: UVModule.sprites.Array.data[0].sprite
+      value: 
+      objectReference: {fileID: -765213118, guid: 435cbd241daf34a5f86560b1e4613cba, type: 3}
+    - target: {fileID: 7717349327740942382, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: UVModule.sprites.Array.data[0].sprite
+      value: 
+      objectReference: {fileID: -956852749, guid: 435cbd241daf34a5f86560b1e4613cba, type: 3}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484177, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8907535047724484181, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}
+      propertyPath: m_Name
+      value: DotExplodeParticle_Yellow
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fce390eb17ce64b1fbd71032568eb112, type: 3}

@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7584045345721954376
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3566749110066732799, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_Size.x
+      value: 0.892
+      objectReference: {fileID: 0}
+    - target: {fileID: 3566749110066732799, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_Size.y
+      value: 0.888
+      objectReference: {fileID: 0}
+    - target: {fileID: 3566749110066732799, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 1388247361, guid: 435cbd241daf34a5f86560b1e4613cba, type: 3}
+    - target: {fileID: 3566749110066732799, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972985, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_Name
+      value: DotGraphic_Sprite_Green
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972990, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: corolatedColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972990, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: corolatedColor.b
+      value: 0.0627451
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972990, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: corolatedColor.g
+      value: 0.81568635
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972990, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: corolatedColor.r
+      value: 0.2901961
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561273372834972991, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5b266a1e2bb0841238fbb1b1991d8884, type: 3}
